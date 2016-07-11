@@ -1,0 +1,24 @@
+{
+  "name": "scratch-voter",
+  "version": "0.0.1",
+  "description": "API server for some voting system on Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as-com/scratch-voter.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/as-com/scratch-voter/issues"
+  },
+  "homepage": "https://github.com/as-com/scratch-voter#readme",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "elasticsearch": "^11.0.1",
+    "request-promise": "^3.0.0"
+  }
+}
